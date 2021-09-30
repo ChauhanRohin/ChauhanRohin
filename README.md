@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+<img align='left' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/stormtroopocat.png' width='300"'>
+<img align='right' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/okal-eltocat.jpg' width='300"'>
+<img align='center' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/gangnamtocat.png' width='300"'>
+<br>
+<br>
+<br>
 <!--
 **ChauhanRohin/ChauhanRohin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
